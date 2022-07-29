@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "code": "02",
+    "name": "CIMA AFRIQUE OCCIDENTALE",
+    "updated_at": {"$date": "2019-11-13T10:56:24.000Z"}
+  },
+  {
+    "_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "code": "01",
+    "name": "CIMA AFRIQUE CENTRALE",
+    "updated_at": {"$date": "2019-11-13T10:55:45.000Z"},
+    "created_at": {"$date": "2019-11-13T10:55:45.000Z"}
+  },
+  {
+    "_id": {"$oid": "5e398c46329d876f4a7aec15"},
+    "code": "03",
+    "name": "CIMA AFRIQUE SUD",
+    "updated_at": {"$date": "2020-02-04T15:22:46.000Z"},
+    "created_at": {"$date": "2020-02-04T15:22:46.000Z"}
+  },
+  {
+    "_id": {"$oid": "5e934156329d876cd94c1e63"},
+    "code": "05",
+    "name": "CEDEAO - UEMOA",
+    "updated_at": {"$date": "2020-04-12T16:28:19.000Z"},
+    "created_at": {"$date": "2020-04-12T16:27:02.000Z"}
+  }
+]

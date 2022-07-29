@@ -1,0 +1,123 @@
+[
+  {
+    "_id": {"$oid": "5d46bcbba8047a091746ea88"},
+    "code": "51Y",
+    "name": "TOGO",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-10-31T17:38:21.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d8b4c7beaf53324626cd995"},
+    "code": "51J",
+    "name": "BENIN",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-10-31T17:38:48.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d8f22276f611f0a5226c152"},
+    "code": "51B",
+    "name": "CAMEROUN",
+    "regions_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "updated_at": {"$date": "2019-11-29T08:49:48.000Z"},
+    "created_at": {"$date": "2019-09-28T09:04:39.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d8f22346f611f0c4d325c22"},
+    "code": "51G",
+    "name": "CONGO",
+    "regions_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "updated_at": {"$date": "2019-11-29T08:50:55.000Z"},
+    "created_at": {"$date": "2019-09-28T09:04:52.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d8f232f6f611f04bb25a782"},
+    "code": "51D",
+    "name": "GABON",
+    "regions_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "updated_at": {"$date": "2019-11-15T10:47:55.000Z"},
+    "created_at": {"$date": "2019-09-28T09:09:03.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d97b884329d8739ec7bb392"},
+    "code": "51L",
+    "name": "MALI",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-10-31T17:36:44.000Z"},
+    "created_at": {"$date": "2019-10-04T21:24:20.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d9a3624329d8774af4bb775"},
+    "code": "51N",
+    "name": "NIGER",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-10-31T17:36:35.000Z"},
+    "created_at": {"$date": "2019-10-06T18:44:52.000Z"}
+  },
+  {
+    "_id": {"$oid": "5d9a363d329d876f642499f3"},
+    "code": "51E",
+    "name": "SENEGAL",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-10-31T17:36:22.000Z"},
+    "created_at": {"$date": "2019-10-06T18:45:17.000Z"}
+  },
+  {
+    "_id": {"$oid": "5da8198f329d87383208ea42"},
+    "code": "51H",
+    "name": "COTE D'IVOIRE",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2019-11-12T13:44:46.000Z"},
+    "created_at": {"$date": "2019-10-17T07:34:39.000Z"}
+  },
+  {
+    "_id": {"$oid": "5da9936c329d8753f569ed53"},
+    "code": "51P",
+    "name": "CENTRAFRIQUE",
+    "regions_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "updated_at": {"$date": "2019-11-29T08:50:30.000Z"},
+    "created_at": {"$date": "2019-10-18T10:26:52.000Z"}
+  },
+  {
+    "_id": {"$oid": "5dba881d329d874265654e22"},
+    "code": "53G",
+    "name": "Rwanda",
+    "regions_id": {"$oid": "5e398c46329d876f4a7aec15"},
+    "updated_at": {"$date": "2019-11-12T12:33:48.000Z"},
+    "created_at": {"$date": "2019-10-31T07:07:09.000Z"},
+    "deleted_at": {"$date": "2019-11-12T12:33:48.000Z"}
+  },
+  {
+    "_id": {"$oid": "5dbef990329d870f131917d3"},
+    "code": "51K",
+    "name": "BURKINA FASO",
+    "regions_id": {"$oid": "5d470354a8047a091746eaa3"},
+    "updated_at": {"$date": "2021-08-09T15:53:29.000Z"},
+    "created_at": {"$date": "2019-11-03T16:00:16.000Z"}
+  },
+  {
+    "_id": {"$oid": "5dcaac92329d8774837cb5c2"},
+    "code": "50A",
+    "name": "DJIBOUTI",
+    "regions_id": {"$oid": "5dcaac70329d87748c5f62b2"},
+    "updated_at": {"$date": "2019-11-12T13:08:46.000Z"},
+    "created_at": {"$date": "2019-11-12T12:58:58.000Z"},
+    "deleted_at": {"$date": "2019-11-12T13:08:46.000Z"}
+  },
+  {
+    "_id": {"$oid": "5dcb06d6329d877a14342bc2"},
+    "code": "50A",
+    "name": "MAROC",
+    "regions_id": {"$oid": "5da81951329d87374c1bf0f2"},
+    "updated_at": {"$date": "2019-11-12T19:24:30.000Z"},
+    "created_at": {"$date": "2019-11-12T19:24:06.000Z"},
+    "deleted_at": {"$date": "2019-11-12T19:24:30.000Z"}
+  },
+  {
+    "_id": {"$oid": "5e27368171869b37bf4d0842"},
+    "code": "51F",
+    "name": "TCHAD",
+    "regions_id": {"$oid": "5dcbe131329d8723b463cd32"},
+    "updated_at": {"$date": "2020-08-10T23:06:49.000Z"},
+    "created_at": {"$date": "2020-01-21T17:36:01.000Z"}
+  }
+]

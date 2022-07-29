@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d222b7e8-2d12-4776-acb8-875cb29dca8f" name="Changes" comment="change to mysql" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AsZfahTlKjKrOLxA1yT73mvO1j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/data" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\todoapp\src\main\resources\data" />
+      <recent name="D:\javaProjects\todoapp\src\main\java\com\epam\todoApp" />
+      <recent name="D:\javaProjects\todoapp\src\main\resources\db" />
+      <recent name="D:\javaProjects\todoapp\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProjects\todoapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.controller" />
+      <recent name="com.demo.service.impl" />
+      <recent name="com.demo.dao" />
+      <recent name="com.demo.model" />
+      <recent name="com.epam.todoApp.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TodoAppApplication">
+    <configuration name="TodoAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.TodoAppApplication" />
+      <module name="todoapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.todoApp.TodoAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.todoApp.TodoAppApplication" />
+      <module name="todoapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.todoApp.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.todoApp.test.testcall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.todoApp.test.testcall" />
+      <module name="todoapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.todoApp.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.todoApp.utils.JWTUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.todoApp.utils.JWTUtil" />
+      <module name="todoapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.todoApp.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="todoapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TodoAppApplication" />
+        <item itemvalue="Application.com.epam.todoApp.TodoAppApplication" />
+        <item itemvalue="Application.com.epam.todoApp.test.testcall" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.com.epam.todoApp.utils.JWTUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d222b7e8-2d12-4776-acb8-875cb29dca8f" name="Changes" comment="" />
+      <created>1655800356638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655800356638</updated>
+    </task>
+    <task id="LOCAL-00001" summary="start up">
+      <created>1655811614907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655811614907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="function complete">
+      <created>1655909939709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655909939709</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add swagger">
+      <created>1655948931888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655948931888</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix bugs">
+      <created>1656037576401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656037576401</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test jenkins">
+      <created>1656210639711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656210639712</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test jenkins">
+      <created>1656211012774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656211012774</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test jenkins">
+      <created>1656212700232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656212700232</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test jenkins">
+      <created>1656212715793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656212715793</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test jenkins">
+      <created>1657010657464</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010657464</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test jenkins">
+      <created>1657010863603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010863603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test jenkins">
+      <created>1657012024710</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657012024710</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test jenkins">
+      <created>1657013405434</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657013405434</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test jenkins">
+      <created>1657013948989</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657013948989</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test jenkins">
+      <created>1657014205789</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657014205789</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test jenkins">
+      <created>1657073513107</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657073513107</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test jenkins">
+      <created>1657074138995</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657074138995</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change to mysql">
+      <created>1657695241889</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657695241889</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="02e5cd53-5810-43f2-aa99-cdf8dc1b5894">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/javaProjects/todoapp/src/main/resources" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="71ac20a2-dec3-4096-9a61-04402dde686e">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="02e5cd53-5810-43f2-aa99-cdf8dc1b5894" value="TOOL_WINDOW" />
+        <entry key="71ac20a2-dec3-4096-9a61-04402dde686e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start up" />
+    <MESSAGE value="function complete" />
+    <MESSAGE value="add swagger" />
+    <MESSAGE value="fix bugs" />
+    <MESSAGE value="test jenkins" />
+    <MESSAGE value="change to mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="change to mysql" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/interceptor/LoginInterceptor.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.6.9.Final/hibernate-core-5.6.9.Final-sources.jar!/org/hibernate/proxy/pojo/bytebuddy/ByteBuddyInterceptor.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.6.9.Final/hibernate-core-5.6.9.Final-sources.jar!/org/hibernate/proxy/pojo/bytebuddy/ByteBuddyInterceptor.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/interceptor/LoginInterceptor.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.6.9.Final/hibernate-core-5.6.9.Final-sources.jar!/org/hibernate/internal/SessionImpl.java</url>
+          <line>3376</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.8/spring-boot-autoconfigure-2.6.8-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/service/impl/QueryServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedHashMap$Entry" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/todoapp$TodoAppApplication.ic" NAME="TodoAppApplication Coverage Results" MODIFIED="1659069957801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.demo.*</FILTER>
+    </SUITE>
+  </component>
+</project>

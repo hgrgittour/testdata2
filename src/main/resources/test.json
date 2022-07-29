@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "msg": "Success",
+  "data": [
+    {
+      "reference": "BCP-6-AAA01/JK/2020/CICARE",
+      "countryName": "COTE D'IVOIRE",
+      "cedantName": "HYPER NON VIE ASSURANCE",
+      "validationStatus": "Verified",
+      "confirmationStatus": "Confirmed",
+      "publicationDate": "2020-11-10 16:12:17",
+      "branchName": "Transports Terrestres",
+      "calculatedREC": 60044.04
+    },
+    {
+      "reference": "BCP-1-AAA01/EY/2020/CICARE",
+      "countryName": "COTE D'IVOIRE",
+      "cedantName": "HYPER NON VIE ASSURANCE",
+      "validationStatus": "Verified",
+      "confirmationStatus": "Confirmed",
+      "publicationDate": "2020-10-26 15:06:46",
+      "branchName": "Automobile",
+      "calculatedREC": 3807168.1199999996
+    },
+    {
+      "reference": "BCP-6-5688/k/2020/CICARE",
+      "countryName": "COTE D'IVOIRE",
+      "cedantName": "Paix Assur",
+      "validationStatus": "Partial Verified",
+      "confirmationStatus": "Confirmed",
+      "publicationDate": "2020-10-31 15:14:41",
+      "branchName": "TRANSPORTS",
+      "calculatedREC": 1.4372222435999998E8
+    },
+    {
+      "reference": "BCP-2-9102/ey/2020/CICARE",
+      "countryName": "COTE D'IVOIRE",
+      "cedantName": "KIED Assur",
+      "validationStatus": "Verified",
+      "confirmationStatus": "Confirmed",
+      "publicationDate": "2020-11-16 11:43:22",
+      "branchName": "Caution et Credit",
+      "calculatedREC": 1624778.64
+    },
+    {
+      "reference": "BCP-9-5688/k/2020/CICARE",
+      "countryName": "COTE D'IVOIRE",
+      "cedantName": "Paix Assur",
+      "validationStatus": "Partial Verified",
+      "confirmationStatus": "Confirmed",
+      "publicationDate": "2020-10-31 15:26:39",
+      "branchName": "TRANSPORTS",
+      "calculatedREC": 1.0483836444E8
+    }
+  ]
+}
